@@ -1,3 +1,2 @@
 # demo-repository
-github using training
-for nothing 
+github using tiny training repository
